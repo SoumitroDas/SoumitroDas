@@ -1,15 +1,21 @@
 <!-- Soumitro Kumar Das - Vibrant GitHub README -->
 
 <h1 align="center">🌟 Hey there! I'm Soumitro Kumar Das</h1>
-
 <p align="center">
 🎓 <strong>Applied Mathematician</strong> | 🧬 Interdisciplinary Researcher | 💻 Code Explorer  
 <br>📍 M.Sc. in Applied Mathematics, <em>Rajshahi University</em>  
 <br>🌍 Passionate about blending <strong>Math + Code + Communication</strong> to solve complex global problems
 </p>
 
----
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="SoumitroDas's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+</p>
 
+---
 ## 🚀 Snapshot of What I Do
 
 - 📊 Model **vector-borne epidemics** using Python, MATLAB, and Mathematica  
